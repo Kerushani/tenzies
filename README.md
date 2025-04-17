@@ -8,6 +8,5 @@ You start with 10 dice, each showing a random number from 1 to 6.
 Click on a die to hold its current value — held dice won't roll.
 Click the Roll button to re-roll all unheld dice.
 Keep rolling and holding dice until all 10 dice show the same number.
-When they do — you win!
 
 Play here: https://tenzies-knmw3osuv-kerushanis-projects.vercel.app/
