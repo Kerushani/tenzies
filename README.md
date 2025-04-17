@@ -1,7 +1,15 @@
 # Tenzies
 
-Why I decided to do this project:
+A game where you have to 
 
-In advancing my web development skills, I decided to make this project to delve into React.js.
+Tenzies is a dice game where the goal is to get all dice to show the same number.
 
-Throughout this project, I familiarized myself with modern web development technologies/concepts, including Vite, JSON, NPM, and reusable components. I also improved my skills in CSS and gained practical experience managing states within React. These hands-on aspects enriched my project and deepened my understanding of web development.
+How to Play:
+
+You start with 10 dice, each showing a random number from 1 to 6.
+Click on a die to hold its current value — held dice won't roll.
+Click the Roll button to re-roll all unheld dice.
+Keep rolling and holding dice until all 10 dice show the same number.
+When they do — you win!
+
+Play here: https://tenzies-knmw3osuv-kerushanis-projects.vercel.app/
