@@ -1,7 +1,5 @@
 # Tenzies
 
-A game where you have to 
-
 Tenzies is a dice game where the goal is to get all dice to show the same number.
 
 How to Play:
